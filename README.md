@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obay
 - 👀 I’m interested in Art and culture 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Analytics @lewagon
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 
